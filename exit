@@ -1,0 +1,19 @@
+[33mcommit c41db8b3b4a06c8c79daf193e18ce9d1c2fa1b2a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: cyberdrey <yungdrey09@gmail.com>
+Date:   Mon Sep 25 15:32:49 2023 +0100
+
+    lottery smart contract
+
+[33mcommit 8fb76b645e7f2257492db7539940ac89cc37b0dd[m
+Author: cyberdrey <yungdrey09@gmail.com>
+Date:   Mon Sep 11 13:25:42 2023 +0100
+
+    forge install: forge-std
+    
+    v1.6.1
+
+[33mcommit db1a516d846fe8608af21698d49416437ca45949[m
+Author: cyberdrey <yungdrey09@gmail.com>
+Date:   Mon Sep 11 13:25:16 2023 +0100
+
+    chore: forge init
